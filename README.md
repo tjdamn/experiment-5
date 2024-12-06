@@ -104,6 +104,8 @@ int main() {
 
 ![Image](image/实验五图二.png)
 
+![Image](image/实验五图二副.png)
+
 3、将两个字符串连接起来，不要用 strcat 函数。
 代码示例
 ```
